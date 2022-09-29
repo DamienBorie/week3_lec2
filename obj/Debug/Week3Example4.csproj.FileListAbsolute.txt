@@ -1,0 +1,8 @@
+C:\Users\Damien\OneDrive - Dorset College\C# language\Week 3\Week3Example4\Week3Example4\bin\Debug\Week3Example4.exe.config
+C:\Users\Damien\OneDrive - Dorset College\C# language\Week 3\Week3Example4\Week3Example4\bin\Debug\Week3Example4.exe
+C:\Users\Damien\OneDrive - Dorset College\C# language\Week 3\Week3Example4\Week3Example4\bin\Debug\Week3Example4.pdb
+C:\Users\Damien\OneDrive - Dorset College\C# language\Week 3\Week3Example4\Week3Example4\obj\Debug\Week3Example4.csproj.AssemblyReference.cache
+C:\Users\Damien\OneDrive - Dorset College\C# language\Week 3\Week3Example4\Week3Example4\obj\Debug\Week3Example4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damien\OneDrive - Dorset College\C# language\Week 3\Week3Example4\Week3Example4\obj\Debug\Week3Example4.csproj.CoreCompileInputs.cache
+C:\Users\Damien\OneDrive - Dorset College\C# language\Week 3\Week3Example4\Week3Example4\obj\Debug\Week3Example4.exe
+C:\Users\Damien\OneDrive - Dorset College\C# language\Week 3\Week3Example4\Week3Example4\obj\Debug\Week3Example4.pdb
